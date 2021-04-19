@@ -10,7 +10,7 @@ const randomWeapon = () => {
 
 export default function Randoms() {
   const [random, setRandom] = useState(null)
-  return <div style={{width: 500, margin: 'auto'}}>
+  return <div style={{maxWidth: 500, margin: 'auto', padding: 30}}>
     <div>
       <img src={cat}/>
     </div>
