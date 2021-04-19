@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "453de22f6929c0cad080d0c0422fc617",
+    "revision": "f5e2d5475dc7506e2ae9a77537c88aa6",
     "url": "/mh-rise-tool/index.html"
   },
   {
-    "revision": "e39ca2df1c00915f562d",
+    "revision": "a9c2dce365ddf9f33022",
     "url": "/mh-rise-tool/static/css/main.634b3087.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mh-rise-tool/static/js/2.ba15f025.chunk.js"
   },
   {
-    "revision": "e39ca2df1c00915f562d",
-    "url": "/mh-rise-tool/static/js/main.e39922f1.chunk.js"
+    "revision": "a9c2dce365ddf9f33022",
+    "url": "/mh-rise-tool/static/js/main.b3881ad8.chunk.js"
   },
   {
     "revision": "0a37005c106229a5ce32",
