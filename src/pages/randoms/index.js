@@ -3,6 +3,7 @@ import weapons from '../../data/weapons'
 import monsters from '../../data/monsters'
 import _ from 'lodash'
 import cat from '../../images/cat.png'
+import cat2 from '../../images/cat2.jpg'
 
 const randomWeapon = () => {
   return weapons[_.random(0, 13)]
@@ -12,7 +13,8 @@ export default function Randoms() {
   const [random, setRandom] = useState(null)
   return <div style={{maxWidth: 500, margin: 'auto', padding: 30}}>
     <div>
-      <img src={cat}/>
+      <img src={cat} className='cat-image'/>
+      <img src={cat2} className='cat-image'/>
     </div>
     <button className='random-button' style={{marginTop: 30}} onClick={() => {
       setRandom(Math.random())
