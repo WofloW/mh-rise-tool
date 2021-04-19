@@ -1,2 +1,1 @@
-Build and Deploy
-yarn build && yarn deploy
+PUBLIC_URL=/mh-rise-tool yarn build
