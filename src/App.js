@@ -13,8 +13,9 @@ import './App.css'
 
 
 export default function App() {
+  // {/*<Router basename={'/mh-rise-tool'}>*/}
   return (
-    <Router basename={'/mh-rise-tool'}>
+    <Router>
       <div className="App">
         <Randoms/>
       </div>

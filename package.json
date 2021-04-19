@@ -2,7 +2,6 @@
   "name": "rotation",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://woflow.github.io/mh-rise-tool",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "lodash": "^4.17.15",
