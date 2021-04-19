@@ -14,7 +14,7 @@ import './App.css'
 
 export default function App() {
   return (
-    <Router basename={'/salmonrun-rotation-static'}>
+    <Router basename={'/mh-rise-tool'}>
       <div className="App">
         <Randoms/>
       </div>
