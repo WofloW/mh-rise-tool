@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mh-rise-tool/precache-manifest.5eaf7ee82425f6c93f2bc7871a7ac40f.js"
+  "/mh-rise-tool/precache-manifest.a4afd8f3e19b464113184eba9cae1d65.js"
 );
 
 self.addEventListener('message', (event) => {
